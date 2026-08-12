@@ -56,3 +56,15 @@
 <sub>Built with ❤️ by <a href="https://deveshsamant.in/">Devesh Samant</a></sub>
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ishwari2609/DSA-Milestones/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ishwari2609/DSA-Milestones/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
