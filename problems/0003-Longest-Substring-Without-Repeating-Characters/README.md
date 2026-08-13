@@ -2,7 +2,7 @@
 
 # 3. Longest Substring Without Repeating Characters
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-ffa116?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/Language-Python-6c5ce7?style=for-the-badge&labelColor=1a1a2e&logo=code)  ![Solutions](https://img.shields.io/badge/Solutions-3-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/Date-2026-08-13-0984e3?style=for-the-badge&labelColor=1a1a2e)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-ffa116?style=for-the-badge&labelColor=1a1a2e)  ![Language](https://img.shields.io/badge/Language-Python-6c5ce7?style=for-the-badge&labelColor=1a1a2e&logo=code)  ![Solutions](https://img.shields.io/badge/Solutions-4-6c5ce7?style=for-the-badge&labelColor=1a1a2e)  ![Date](https://img.shields.io/badge/Date-2026-08-13-0984e3?style=for-the-badge&labelColor=1a1a2e)
 
 [![LeetCode](https://img.shields.io/badge/View%20on-LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
@@ -18,18 +18,19 @@
 
 | Metric | This Attempt | All-time Best |
 |--------|:-----------:|:------------:|
-| ⚡ Runtime | 204 ms (Beats 23%) | **204 ms (Beats 23%)** 🆕 |
-| 💾 Memory  | 19.9 MB (Beats 21%) | **19.9 MB (Beats 21%)** |
+| ⚡ Runtime | 203 ms (Beats 24%) | **203 ms (Beats 24%)** 🆕 |
+| 💾 Memory  | 19.9 MB (Beats 10%) | **19.9 MB (Beats 10%)** |
 
 > 🎉 **New personal best!** Runtime improved!
 
-## 💡 Solutions (3 total)
+## 💡 Solutions (4 total)
 
 | # | File | Language | Date |
 |:-:|------|:--------:|:----:|
 | 1 | [sol1.py](./sol1.py) | `Python` | 2026-08-13 |
 | 2 | [sol2.py](./sol2.py) | `Python` | 2026-08-13 |
-| 3 | [sol3.py](./sol3.py) | `Python` | 2026-08-13 ← **latest** |
+| 3 | [sol3.py](./sol3.py) | `Python` | 2026-08-13 |
+| 4 | [sol4.py](./sol4.py) | `Python` | 2026-08-13 ← **latest** |
 
 ---
 
